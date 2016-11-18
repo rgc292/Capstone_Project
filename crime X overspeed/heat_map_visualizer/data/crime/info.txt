@@ -1,0 +1,9 @@
+numpoints: 133036
+bucketcount: 5
+bucketsize: 1
+tsmin: 1293858060
+tsmax: 1420088460
+latmin: 40.701488814000101
+latmax: 40.873229025999997
+lngmin: -74.018158928
+lngmax: -73.91145543
