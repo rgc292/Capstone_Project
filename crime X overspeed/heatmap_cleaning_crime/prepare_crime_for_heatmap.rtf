@@ -12,6 +12,4 @@ Create .csv file for heat map plot:\
 \
 grep -v '^\\t' 2016crime | awk -F ',' '\{print "1451624460"","$3","$4\}' > 5.csv\
 \
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
-\cf0 grep '2015-09' 2015larceny | awk -F ',' '\{print "1441083660"","$3","$4\}' > 0.csv\
-}
+grep '2015-09' 2015larceny | awk -F ',' '\{print "1441083660"","$3","$4\}' > 0.csv}
